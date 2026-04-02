@@ -121,11 +121,6 @@ npx hardat compile
 npx hardhat run scripts/deploy.ts --network testnet
 ```
 
-### Hedera Developer Certificates
-
-[chisom certificate.pdf](https://github.com/user-attachments/files/23269974/certificate.pdf)
-
-[ibrahim_certificate.pdf](https://github.com/user-attachments/files/23269972/ibrahim_arogundade_certificate.pdf)
 
 [pitch deck](https://www.canva.com/design/DAG3HI92HfE/b_nWwYGcL6OlSAn5y93X_A/edit)
 
